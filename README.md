@@ -3,7 +3,7 @@
 
 
 
-Image sharer is a webapp in whichi you can upload any image and view the image uploaded by others.
+Image sharer is a webapp in which you can upload any image and view the image uploaded by others.
 
 Techstack used-
 * Python
